@@ -1,0 +1,50 @@
+,abbr,label,id,points,lookupName,modified,WR,RB,TE,DE,LB,S,CB,DT,QB,K
+7,STF,Stuffs,112,0.5,112,True,False,False,False,True,True,True,True,True,False,False
+4,TKA,Assisted Tackles,107,0.5,defensiveAssistedTackles,False,False,False,False,True,True,True,True,True,False,False
+14,BLKKRTD,Blocked Punt or FG return for TD,93,6.0,defensiveBlockedKickForTouchdowns,False,False,False,False,True,True,True,True,True,False,False
+32,BLKK,"Blocked Punt, PAT or FG",97,3,defensiveBlockedKicks,True,False,False,False,True,True,True,True,True,False,False
+3,FF,Each Fumble Forced,106,4,defensiveForcedFumbles,False,False,False,False,True,True,True,True,True,False,False
+36,INT,Each Interception,95,4.5,defensiveInterceptions,True,False,False,False,True,True,True,True,True,False,False
+31,PD,Passes Defensed,113,1.5,defensivePassesDefensed,False,False,False,False,True,True,True,True,True,False,False
+47,SK,Each Sack,99,4.5,defensiveSacks,True,False,False,False,True,True,True,True,True,False,False
+15,SF,Each Safety,98,2.0,defensiveSafeties,False,False,False,False,True,True,True,True,True,False,False
+44,TKS,Solo Tackles,108,1.0,defensiveSoloTackles,False,False,False,False,True,True,True,True,True,False,False
+21,TK,Total Tackles,109,1.0,defensiveTotalTackles,True,False,False,False,True,True,True,True,True,False,False
+26,FTD,Fumble Recovered for TD,63,6.0,fumbleRecoveredForTD,False,True,True,True,True,True,True,True,True,True,True
+28,FRTD,Fumble Return TD,104,6.0,fumbleReturnTouchdowns,False,True,True,True,True,True,True,True,True,True,True
+24,INTTD,Interception Return TD,103,6.0,interceptionReturnTouchdowns,False,True,True,True,True,True,True,True,True,True,True
+25,KRTD,Kickoff Return TD,101,6.0,kickoffReturnTouchdowns,False,True,True,True,True,True,True,True,True,True,True
+0,FUML,Total Fumbles Lost,72,-1.0,lostFumbles,False,True,True,True,True,True,True,True,True,True,True
+41,PAT,Each PAT Made,86,1.0,madeExtraPoints,False,False,False,False,False,False,False,False,False,False,True
+33,FG40,FG Made (40-49 yards),77,4.0,madeFieldGoalsFrom40To49,False,False,False,False,False,False,False,False,False,False,True
+46,FG50,FG Made (50-59 yards),198,5.0,madeFieldGoalsFrom50Plus,False,False,False,False,False,False,False,False,False,False,True
+45,FG60,FG Made (60+ yards),201,6.0,madeFieldGoalsFrom60Plus,False,False,False,False,False,False,False,False,False,False,True
+27,FG0,FG Made (0-39 yards),80,3.0,madeFieldGoalsFromUnder40,False,False,False,False,False,False,False,False,False,False,True
+38,FGM,Total FG Missed,85,-1.0,missedFieldGoals,False,False,False,False,False,False,False,False,False,False,True
+18,2PC,2pt Passing Conversion,19,2.0,passing2PtConversions,False,False,False,False,False,False,False,False,False,True,False
+22,INTT,Interceptions Thrown,20,-2.0,passingInterceptions,False,False,False,False,False,False,False,False,False,True,False
+19,PTD,TD Pass,4,4.0,passingTouchdowns,False,False,False,False,False,False,False,False,False,True,False
+39,PY,Passing Yards,3,0.04,passingYards,False,False,False,False,False,False,False,False,False,True,False
+20,PRTD,Punt Return TD,102,6.0,puntReturnTouchdowns,False,True,True,True,True,True,True,True,True,True,True
+43,2PRE,2pt Receiving Conversion,44,2.0,receiving2PtConversions,False,True,True,True,False,False,False,False,False,False,False
+10,REC,Each reception,53,1.0,receivingReceptions,False,True,True,True,False,False,False,False,False,False,False
+17,RETD,TD Reception,43,6.0,receivingTouchdowns,False,True,True,True,False,False,False,False,False,False,False
+42,REY,Receiving Yards,42,0.1,receivingYards,False,True,True,True,False,False,False,False,False,True,False
+30,2PR,2pt Rushing Conversion,26,2.0,rushing2PtConversions,False,True,True,True,False,False,False,False,False,True,False
+6,RTD,TD Rush,25,6.0,rushingTouchdowns,False,True,True,True,False,False,False,False,False,True,False
+23,RY,Rushing Yards,24,0.1,rushingYards,False,True,True,True,False,False,False,False,False,True,False
+8,PA0,0 points allowed,89,6.0,teamStat,False,False,False,False,False,False,False,False,False,False,False
+1,PA1,1-6 points allowed,90,4.0,teamStat,False,False,False,False,False,False,False,False,False,False,False
+16,PA7,7-13 points allowed,91,3.0,teamStat,False,False,False,False,False,False,False,False,False,False,False
+35,PA14,14-17 points allowed,92,1.0,teamStat,False,False,False,False,False,False,False,False,False,False,False
+2,PA28,28-34 points allowed,123,-1.0,teamStat,False,False,False,False,False,False,False,False,False,False,False
+40,PA35,35-45 points allowed,124,-3.0,teamStat,False,False,False,False,False,False,False,False,False,False,False
+37,PA46,46+ points allowed,125,-5.0,teamStat,False,False,False,False,False,False,False,False,False,False,False
+11,YA499,450-499 total yards allowed,134,-5.0,teamStat,False,False,False,False,False,False,False,False,False,False,False
+12,YA549,500-549 total yards allowed,135,-6.0,teamStat,False,False,False,False,False,False,False,False,False,False,False
+13,YA550,550+ total yards allowed,136,-7.0,teamStat,False,False,False,False,False,False,False,False,False,False,False
+34,YA100,Less than 100 total yards allowed,128,5.0,teamStat,False,False,False,False,False,False,False,False,False,False,False
+9,1PSF,1pt Safety,209,1.0,unknown,False,True,True,True,True,True,True,True,True,True,True
+5,2PRET,2pt Return,206,2.0,unknown,False,True,True,True,True,True,True,True,True,True,True
+29,FR,Each Fumble Recovered,96,3,defensiveFumbles,True,True,True,True,True,True,True,True,True,True,True
+,,,,,,,,,,,,,,,,
